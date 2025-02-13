@@ -10,23 +10,19 @@ A feature-rich habits tracker application built with **TypeScript** and **Node.j
 
     - Create a new habit with a name and icon.
 
-2. **Edit Existing Habits**
-
-    - Update the name or icon of an existing habit.
-
-3. **Delete Habits**
+2. **Delete Habits**
 
     - Delete habits with a confirmation prompt.
 
-4. **Weekly Tracking**
+3. **Weekly Tracking**
 
     - Track habits on a weekly basis with a star rating system.
 
-5. **Persistent Storage**
+4. **Persistent Storage**
 
     - All habits and their progress are stored locally, ensuring data persists across app sessions.
 
-6. **User-Friendly Interface**
+5. **User-Friendly Interface**
     - Habits are displayed in a visually appealing table format with intuitive icons.
 
 ---
@@ -97,7 +93,7 @@ A feature-rich habits tracker application built with **TypeScript** and **Node.j
 
 5.  **Open the app**:
 
-If it's a web-based app, open your browser and navigate to http://localhost:3000.
+If it's a web-based app, open your browser and navigate to http://localhost:5000.
 
 If it's a CLI-based app, interact with the app directly in your terminal.
 
