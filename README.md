@@ -90,10 +90,10 @@ A feature-rich habits tracker application built with **TypeScript** and **Node.j
 
 4.  **Start the application**:
 
-        ```bash
-        Copy
-        npm start
-        ```
+    ```bash
+    Copy
+    npm start
+    ```
 
 5.  **Open the app**:
 
@@ -113,4 +113,4 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Modify this for the above habits tracker app. i used typescript and note
+Modify this for the above habits tracker app. i used typescript and note.
