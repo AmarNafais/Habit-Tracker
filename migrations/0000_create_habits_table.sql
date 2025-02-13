@@ -1,0 +1,6 @@
+CREATE TABLE habits (
+  id INT AUTO_INCREMENT PRIMARY KEY NOT NULL,
+  name TEXT NOT NULL,
+  emoji TEXT NOT NULL,
+  completed_days JSON NOT NULL
+);
