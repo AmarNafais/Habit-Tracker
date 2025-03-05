@@ -12,4 +12,5 @@ if (!process.env.DATABASE_URL) {
 
 export const pool = mysql.createPool(process.env.DATABASE_URL);
 
-export const databaseInstance = drizzle(pool);
+export const db = drizzle(pool);
+// changes made for above
